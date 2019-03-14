@@ -13,4 +13,4 @@ install packages in this order will not remove any other packages
 ## Common problems:
 - ensure user is in audio group
 - do not set frame rate too large, 4 is enough
-- do not set parameter `save file` to `true`, as it is not stable
+- do not set parameter `save_file` to `true`, save file function is not stable at the moment
